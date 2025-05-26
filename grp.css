@@ -1,0 +1,56 @@
+@import url(grp.html);
+
+p{
+    font-size: medium;
+    color: #8b4f1f;
+
+}
+
+body{
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f8f5f0;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #af663c;
+    color: #f9e4b7;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px solid #c99c56;
+    
+}
+
+h1, h2, h3 { 
+    color: #5e3c1f;
+}
+
+div {
+    margin: 30px auto;
+    padding: 20px; 
+    width: 80%;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(93, 54, 18, 0.1);
+    background-color: #fffdfa;
+    border-left: 6px solid #d9a441;
+}
+
+a{
+    color: #8b4f1f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #d9a441;
+    text-decoration: underline;
+}
+
+div a{
+    display: block;
+    margin-bottom: 6px;
+    padding: 4px 8px;
+    background-color: #fcf3e8;
+    border-left: 4px solid #d9a441;
+}

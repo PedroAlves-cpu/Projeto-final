@@ -1,0 +1,78 @@
+@import url(sobrenos.html);
+
+body{
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f8f5f0;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #af663c;
+    color: #f9e4b7;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px solid #c99c56;
+    
+}
+
+h1, h2, h3 { 
+    color: #5e3c1f;
+}
+
+div {
+    margin: 30px auto;
+    padding: 20px; 
+    width: 80%;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(93, 54, 18, 0.1);
+    background-color: #fffdfa;
+    border-left: 6px solid #d9a441;
+}
+
+h4{
+    color: #7b5d3c;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 1rem;
+    line-height: 1.6;
+    text-align: justify; 
+}
+
+img{
+    max-width: 100%;
+    border: 2px solid #d9a441;
+    border-radius: 8px;
+    margin: 15px 0;
+}
+
+a{
+    color: #8b4f1f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #d9a441;
+    text-decoration: underline;
+}
+
+div a{
+    display: block;
+    margin-bottom: 6px;
+    padding: 4px 8px;
+    background-color: #fcf3e8;
+    border-left: 4px solid #d9a441;
+}
+
+.Códigosdo\ Arduino{
+    background-color: #eae2d6;
+    border-left: 6px solid #ae7b2c;
+}
+
+.Titulo\ 1, .Titulo\ 2\.0, .Titulo\ 3\.0, .Titulo\ 4\.0, .Titulo\ 5\.0, .Titulo\ 7\.0, .Titulo\ 8\.0, .Titulo\ 9\.0, .Titulo\ 10\.0{
+    background-color: #f3e5d5;
+    border-left: 6px solid #c48c3a;
+}
